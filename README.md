@@ -6,8 +6,6 @@
 ### ik zit op 
 1. voetbal 
 2. kickboksen
-
-# Web Development
 ### Mijn github account:
 [Mijn Github](https://github.com/RubenCali)
 # h1 
