@@ -8,6 +8,9 @@ Ruben Cali
 ###### h6
 
 # Ruben Cali
-### ik zit op voetbal en kickboksen
+### ik zit op 
+1. voetbal 
+en 
+2. kickboksen
 
 
